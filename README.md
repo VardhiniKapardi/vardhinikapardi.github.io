@@ -34,10 +34,12 @@ Thesis Supervisor: Dr. V. Mahesh
 ### Thesis Title: Effect of alpha music on mental task performance using EEG signals
  - Acquisition of electroencephalography (EEG) signals with a designed experimental protocol.
  - Signal analysis by visualization of brain activations for studying effect of relaxation stimuli in mental task performance.
- - 
+
 ## DIAGNOSTIC AND THERAPEUTIC LAB | B.E.
 July 2013 – Jun 2015 | Chennai, India
 ### Thesis Supervisor: Dr. S. Pravin Kumar
 - Design of piezoelectric sensor belt and condensor microphone for the acquisition of respiratory signals and sounds.
 - Analysis of recorded respiratory data using signal processing approaches and machine learning algorithms.
+
+# Skills
 
