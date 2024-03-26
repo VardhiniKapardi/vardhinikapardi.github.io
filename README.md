@@ -1,3 +1,10 @@
+# About Me
+Explain who you are, what you do, how you got into data, and any projects/results you’re proud of.
+I’d also add some contact details - email & LinkedIn URL will do.
+Although important, don't make this too long.
+
+
+
 ## Education
 ### PhD in Biomedical Engineering 
 Department of Applied Mechanics,
